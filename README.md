@@ -153,10 +153,6 @@ The project uses structured hospital data including:
 <img width="1748" height="927" alt="Screenshot 2026-05-02 172423" src="https://github.com/user-attachments/assets/1874327c-351d-417f-8ff3-a445c0022388" />
 
 
-
-
-*(Add your screenshots here in GitHub — drag & drop images)*
-
 ---
 
 ###  Key Insights
