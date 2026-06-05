@@ -1,6 +1,4 @@
-Nice project — this is exactly the kind of thing recruiters like because it shows *end-to-end thinking* (SQL → BI → UX). I’ll give you a clean, professional README you can directly paste into GitHub.
 
----
 
 ##  Hospital Management Dashboard (SQL + Power BI)
 
